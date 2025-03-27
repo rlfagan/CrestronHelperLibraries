@@ -1,4 +1,6 @@
 # CrestronHelperLibraries
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FCrestronHelperLibraries.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FCrestronHelperLibraries?ref=badge_shield)
+
 A list of Helper Libraries to facilitate the transition from SIMP to SIMPL#Pro
 
 The list of helper libraries shown here were created to facilitate the season SIMPL programmer move into SIMPL# programming.  As a season SIMPL programmer myself, and after spending a considerable amount of time learning C#, and object oriented programming, it was still hard to jump into SIMPL# and understand how to make a processor work the same way I was able to with SIMPL.  In the beginning I found it challenging to understand how the CrestronControlSystem class worked. Initializing slots and consume events was also not as straight forward as it was with SIMPL. Going to a more advance Multimedia processor like the DMPS-4K-150-C was even more challenging.
@@ -27,3 +29,7 @@ The same thinking is applied to other modules of the CP3.
 My hopes are that this will decrease the learning curve to get familiar with SIMPL#pro.  If you find it useful feel free to contribute by using the same architecture to build templates for other processors like the PRO3, DMPS3-4K-300-C, fixing or creating documentation, etc.
 
 Open issues if you find errors, contribute to projects, etc.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FCrestronHelperLibraries.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FCrestronHelperLibraries?ref=badge_large)
